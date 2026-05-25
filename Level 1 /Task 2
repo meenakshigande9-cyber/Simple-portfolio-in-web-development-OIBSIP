@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Portfolio</title>
+
+    <style>
+
+        body{
+            text-align:center;
+            font-family:Arial;
+            background-color:lightgray;
+            margin:0;
+        }
+
+        header{
+            background-color:blue;
+            color:white;
+            padding:20px;
+        }
+
+        .main{
+            background-color:white;
+            margin:20px;
+            padding:30px;
+        }
+
+        img{
+            width:250px;
+            border-radius:50%;
+        }
+
+        h1{
+            color:darkblue;
+        }
+
+        .skills{
+            background-color:red;
+            margin:20px;
+            padding:20px;
+        }
+
+        footer{
+            background-color:blue;
+            color:white;
+            padding:10px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h2>My Portfolio</h2>
+
+    </header>
+
+    <div class="main">
+
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
+
+        <h1>Meenakshi</h1>
+
+        <p>
+            I am a b.tech  student.
+             in bwec
+        </p>
+
+    </div>
+
+    <div class="skills">
+
+        <h2>Skills</h2>
+
+        <p>HTML</p>
+
+        <p> basic python  learner</p>
+
+        <p> I have NSS certificate</p>
+        <p></p>
+
+    </div>
+
+    <footer>
+
+        <p>Created by Meenakshi</p>
+
+    </footer>
+
+</body>
+</html>
